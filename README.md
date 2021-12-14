@@ -102,6 +102,7 @@ Step 5.4: Configure following Input test event. Test Lambda function.
 ![image](https://user-images.githubusercontent.com/31132150/145937492-96c942c1-4ab5-4732-86fa-417c34d168f4.png)
 
 Step 5.5: It is work fine.
+
 ![image](https://user-images.githubusercontent.com/31132150/145937516-586323a8-998c-42c6-9415-f51f28d7f1a1.png)
 
 ![image](https://user-images.githubusercontent.com/31132150/145937523-cac2904f-3cba-4435-9674-324c18c43073.png)
