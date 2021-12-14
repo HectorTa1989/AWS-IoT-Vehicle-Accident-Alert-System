@@ -89,6 +89,7 @@ Step 4.3: Select Permission. Attach Policy.
 Step 5: Create the Lambda Function
 
 Step 5.1: Login to the Amazon AWS Console. Then, select AWS Lambda service.
+
 ![image](https://user-images.githubusercontent.com/31132150/145937446-bb47c766-9b9d-45fc-8919-257a7c2b9ef3.png)
 
 Step 5.2: Select create a Lambda function. Then, configure function. (Source file’s in the code section)
@@ -104,6 +105,7 @@ Step 5.5: It is work fine.
 ![image](https://user-images.githubusercontent.com/31132150/145937516-586323a8-998c-42c6-9415-f51f28d7f1a1.png)
 
 ![image](https://user-images.githubusercontent.com/31132150/145937523-cac2904f-3cba-4435-9674-324c18c43073.png)
+
 Now, AWS environment is completely ready for the system. Next, we will set up Real-time Framework.
 
 Part 3: Setup Real-time Framework
